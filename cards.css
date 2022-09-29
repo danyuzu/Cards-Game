@@ -1,0 +1,64 @@
+
+body{ background-color: blanchedalmond;}
+.card
+{
+    width: 8rem;
+    height: 8rem;
+    border: 1px solid black;
+    display:inline-block;
+    border-radius: 10%;
+    background-color:red;
+ 
+ 
+ 
+   
+   
+}
+
+.imglambo{
+   
+    width: 7rem;
+    height: 8rem;
+     
+     display: none;
+   
+}
+.imgnissan{
+   
+    display: none;
+      width: 7rem;
+      height: 8rem;
+  }
+  .imgbuga{
+   
+    display: none;
+      width: 7rem;
+      height: 8rem;
+  }
+  .imglambo2{
+   
+    display: none;
+      width: 7rem;
+      height: 8rem;
+  }
+  .imgnissan2{
+     
+      display: none;
+        width: 7rem;
+        height: 8rem;
+    }
+    .imgbuga2{
+     
+      display: none;
+        width: 7rem;
+        height: 8rem;
+    }
+
+
+.deck
+{
+    
+
+    width: 25rem;
+    height: 10rem;
+}
